@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Hello! This is the homepage of Hao YANG's personal website.
+
+This website is made from [Academic Pages](https://academicpages.github.io/).
