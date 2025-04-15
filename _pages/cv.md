@@ -11,20 +11,19 @@ redirect_from:
 
 Education
 ======
-* Northwestern Polytechnical University (NPU, Xi'an, China)
+* Northwestern Polytechnical University (NWPU, Xi'an, China)
   * **Time**:&emsp; Aug. 2022 - Jul. 2026 (Expected)
   * **Major**:&emsp; Bachelor of Engineering in Computer Science and Technology
   * **Minor**:&emsp; Smart Energy
-  * **GPA**:&emsp; 3.718 / 4.1, 89.23 / 100
+  * **GPA**:&emsp; 3.723 / 4.1, 89.14 / 100
 
 Research Experience
 ======
-* Fall 2024: AugCD
-  * Wrote a paper named **AugCD: Augmenting Change Detection through Change Augmentation**, which expects to be submitted in February 2025. 
-  * Employed pre-masking to conceal regions that are highly unlikely to change and subsequently generated text prompts.
-  * Developed a Different Augment function to enhance the discrepancy between visual and textual information, facilitating differential feature learning and improving the accuracy of change detection.
-  * Introduced a U-Net-like structure in the decoder, combined with fused embeddings, to enhance control over the decoding process and improve the model's precision in identifying changed areas.
-  * **Supervisor**:&emsp; [Associate Prof. Zhiyu JIANG](https://iopen.nwpu.edu.cn/info/1251/1077.htm)
+* Fall 2024: MdaCD
+  * Wrote a paper named **Multimodal Difference Augmentation Learning for Remote Sensing Change Detection**, which is under review. 
+  * Employed a CLIP-Guided Masking process to conceal regions that are highly unlikely to change and subsequently generated text prompts.
+  * Developed a Multimodal Fusion and Difference Augmentation process to enhance the discrepancy between visual and textual information, facilitating differential feature learning and improving the accuracy of change detection.
+  * **Supervisor**:&emsp; [Asso. Prof. Zhiyu JIANG](https://iopen.nwpu.edu.cn/info/1251/1077.htm)
   
 Competitions
 ======
