@@ -20,7 +20,7 @@ Education
 Research Experience
 ======
 * Fall 2024: MdaCD
-  * Wrote a paper named **Multimodal Difference Augmentation Learning for Remote Sensing Change Detection**, which is under review. 
+  * Wrote a paper named **Multimodal Difference Augmentation Learning for Remote Sensing Change Detection**, which is submitted to TGRS and under review.
   * Employed a CLIP-Guided Masking process to conceal regions that are highly unlikely to change and subsequently generated text prompts.
   * Developed a Multimodal Fusion and Difference Augmentation process to enhance the discrepancy between visual and textual information, facilitating differential feature learning and improving the accuracy of change detection.
   * **Supervisor**:&emsp; [Asso. Prof. Zhiyu JIANG](https://iopen.nwpu.edu.cn/info/1251/1077.htm)
@@ -30,17 +30,12 @@ Competitions
 * The 2021 ICPC China Shaanxi Provincial Programming Contest
   * **Time**:&emsp; Oct. 2022
   * **Award**:&emsp; Bronze Medal
-  * In a team of three, I was responsible for Problems F and G and collaborated with team members to address Problem B. The Bronze Medal was awarded to the team for completing three Problems (B, G, J).
-  * **Problem F**:&emsp; Attempted to optimize a brute-force enumeration algorithm but failed to resolve the Problem within the competition time.
-  * **Problem G**:&emsp; Utilized mathematical modeling to calculate the maximum water storage using the arithmetic series sum formula and avoided potential overflow errors by using unsigned long long, successfully solving the Problem.
-  * **Problem B**:&emsp; Participated in the process by transforming the complex constraints into a mathematical model and using a Binary Indexed Tree (BIT) for point updates and range queries.
+  * In a team of three, I was responsible for Problems F and G and collaborated with team members to address Problem B. The Bronze Medal was awarded to the team for completing three Problems.
 * The 2023 Mathematical Contest in Modeling (MCM)
   * **Time**:&emsp; Feb. 2023
   * **Award**:&emsp; Honorable Mention
   * **Problem C-Wordle**:&emsp; Regularity Behind Random Puzzles, three tasks to be addressed.
   * Completed Tasks 2 and 3, including problem interpretation, algorithm design, code implementation, and contest paper writing.
-  * **Task 2**:&emsp; Employed a Binary Decision Tree model to analyze the features of the given word and predict the distribution of attempts required to guess the word (1 to 6 attempts or failure).
-  * **Task 3**:&emsp; Adopted the K-means++ algorithm to classify words into two categories: "simple" and "difficult," and employed a Binary Logistic Regression model to predict the difficulty of words based on the differences in letter frequency between the two categories.
 
 Courses
 ======
