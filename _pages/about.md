@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is the homepage of Hao YANG's personal website.
+Hello! I'm a third-year student with the Honors College in Northwestern Polytechnical University. I am currently participating in a summer internship at the Chinese University of Hong Kong, Shenzhen (CUHKSZ).
 
-I'm a third-year student with the Honors College in Northwestern Polytechnical University. I was born and raised in Zhongshan, Guangdong. My hobbies are music, coffee, coding and snooker.
+I was born and raised in Zhongshan, Guangdong. My hobbies are music, coffee, coding and snooker.
 
-This website is made from [Academic Pages](https://academicpages.github.io/). Last update: Jul. 16th, 2025.
+This website is maintained by me on an occasional basis. Last update: Jul. 17th, 2025.
