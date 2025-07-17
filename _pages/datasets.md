@@ -24,10 +24,10 @@ The dataset will consist of photos taken with the iPhone 14 Pro Max’s main cam
 
 **Preview**
 
-|.jpg Preview|![1](/datasets/cuhksz-apple-raw-8k-dataset/1.jpg)|![2](/datasets/cuhksz-apple-raw-8k-dataset/2.jpg)|
-|.jpg Size|3.29MB|5.39MB|
+|.jpg Preview (x4 Downscaled)|![1](/images/datasets/cuhksz-apple-raw-8k-dataset/1.jpg)|![2](/images/datasets/cuhksz-apple-raw-8k-dataset/2.jpg)|
+|.jpg Size|722.4KB|1.2MB|
 |RAW Size|65.4MB|89.3MB|
-|Capture Time|20250708-1746|20250714-2203|
+|Capture Time|17:46 Jul. 8th, 2025|22:03 Jul. 14th, 2025|
 |ISO|80|800|
 |Explosure Time|1/1965 s|1/25 s|
 
