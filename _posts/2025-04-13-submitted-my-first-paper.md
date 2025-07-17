@@ -1,6 +1,7 @@
 ---
 title: 'Submitted My First Paper'
 date: 2025-04-13
+collection: posts
 permalink: /posts/2025/04/submitted-my-first-paper/
 ---
 

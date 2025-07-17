@@ -1,6 +1,7 @@
 ---
 title: 'Got My Driver License'
 date: 2025-01-21
+collection: posts
 permalink: /posts/2025/01/got-my-driver-license/
 ---
 
