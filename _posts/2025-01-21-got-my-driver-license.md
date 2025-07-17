@@ -2,7 +2,7 @@
 title: 'Got My Driver License'
 date: 2025-01-21
 collection: posts
-permalink: /posts/2025/01/got-my-driver-license/
+permalink: /posts/2025-01-21-got-my-driver-license/
 ---
 
 Passed Common knowledge of safe and civilized driving test (Subject 4, 科目四) and got my driver license!
