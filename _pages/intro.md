@@ -2,7 +2,7 @@
 title: "Explaination"
 collection: datasets
 # type: "Undergraduate course"
-permalink: /datasets/2025-explaination
+permalink: /datasets
 # venue: "Explaination"
 date: 2025-07-17
 ---
