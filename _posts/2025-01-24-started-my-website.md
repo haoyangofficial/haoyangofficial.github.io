@@ -1,8 +1,0 @@
----
-title: 'Started My Website'
-date: 2025-01-24
-collection: posts
-permalink: /posts/2025-01-24-started-my-website/
----
-
-My personal website is running at [haoyangofficial.github.io](https://haoyangofficial.github.io)!

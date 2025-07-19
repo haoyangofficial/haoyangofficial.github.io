@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-News
-======
-* Northwestern Polytechnical University (NWPU, Xi'an, China)
-  * **Time**:&emsp; Aug. 2022 - Jul. 2026 (Expected)
-  * **Major**:&emsp; Bachelor of Engineering in Computer Science and Technology
-  * **Minor**:&emsp; Smart Energy
-  * **GPA**:&emsp; 3.739 / 4.1 (**ALL MATH, CS & AI COURSES** are scored 90+)
+
+**Jul. 4th, 2025**: Started my summer internship in the Chinese University of Hong Kong, Shenzhen (CUHKSZ)!
+**Apr. 13th, 2025**: Submitted **Multimodal Difference Augmentation Learning for Remote Sensing Change Detection** to IEEE TGRS. Thanks to Asso. Prof. Jiang for his supervision! Hope this will be accepted.
+**Jan. 24th, 2025**: My personal website is running at [haoyangofficial.github.io](https://haoyangofficial.github.io)!
+**Jan. 21st, 2025**: Passed Common knowledge of safe and civilized driving test (Subject 4, 科目四) and got my driver license!
+**Jan. 14th, 2025**: Bought all the components and built up my own GPU server (two 3090s).
