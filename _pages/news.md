@@ -12,7 +12,7 @@ redirect_from:
 
 **Jul. 4th, 2025**: Started my summer internship in the Chinese University of Hong Kong, Shenzhen (CUHKSZ)!
 
-**Apr. 13th, 2025**: Submitted my first paper, **Multimodal Difference Augmentation Learning for Remote Sensing Change Detection**, to IEEE T-GRS!
+**Apr. 13th, 2025**: Submitted my first paper, _Multimodal Difference Augmentation Learning for Remote Sensing Change Detection_, to IEEE T-GRS!
 
 **Jan. 24th, 2025**: My personal website is running at [haoyangofficial.github.io](https://haoyangofficial.github.io)!
 

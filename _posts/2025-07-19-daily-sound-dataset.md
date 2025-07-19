@@ -15,7 +15,7 @@ The dataset will comprise audio recordings captured with the iPhone 14 Pro Max m
 
 ## Preview
 
-|Preview|[.m4a File Download Link](/files/yh-daily-sound-dataset-preview.m4a)|
+|Preview|[.m4a File](/files/yh-daily-sound-dataset-preview.m4a) (Right-click and choose "Save link as...")|
 |Preview Length|15 seconds|
 |Preview Size|2.27 MB|
 |Origin File Size|48MB|
