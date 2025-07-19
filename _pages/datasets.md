@@ -6,37 +6,21 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Introduction
-======
+
+## Introduction
+
 I am planning to publish my own datasets for training deep learning models, with a particular focus on multimodal datasets that include captions—such as those involving vision, text and audio.
 
 I am also interested in incorporating "unusual" datasets to enhance diversity, including raw photo datasets and hi-resolution audio datasets. I believe that **data is the lifeblood of deep learning models**, and every researcher should contribute to enhancing dataset diversity. Creating high-quality datasets doesn’t necessarily require complex or expensive equipment—everyday devices, such as smartphones, are often sufficient.
 
 If you are interested in contributing your own data, please feel free to contact me at `haoyang.official@gmail.com`. **Your contribution would be greatly appreciated!**
 
-CUHKSZ Apple RAW 8K Dataset
-======
-**THIS WORK IS IN PROGRESS.**
+## YH CUHKSZ Apple RAW 8K Dataset
 
-During my visit to CUHKSZ, I plan to photograph the campus using an iPhone 14 Pro Max. The goal is to create an ultra-large Apple RAW dataset accompanied by manually written text captions, featuring images captured both during the day and at night.
+The goal of this project is to create an ultra-large Apple RAW dataset accompanied by manually written text captions, featuring images captured both during the day and at night. **THIS WORK IS IN PROGRESS.** See more details [here](https://haoyangofficial.github.io/posts/2025-07-18-cuhksz-apple-raw-8k-dataset/).
 
-The dataset will consist of photos taken with the iPhone 14 Pro Max’s main camera at 1x zoom, saved in Apple RAW format at a resolution of 8064×6048 (8K), and will include scenes from both daytime and nighttime conditions.
+## YH Daily Sound Dataset
 
-**Preview**
+The goal of this project is to record and caption sounds from my daily life, creating a rich, real-world dataset that can enhance the understanding of sound in multimodal models such as Audio-Language Models (ALMs). **THIS WORK IS IN PROGRESS.** See more details [here](https://haoyangofficial.github.io/posts/2025-07-19-daily-sound-dataset/).
 
-|.jpg Preview (x8 Downscaled)|![1](/images/datasets/cuhksz-apple-raw-8k-dataset/1.jpg)|![2](/images/datasets/cuhksz-apple-raw-8k-dataset/2.jpg)|
-|.jpg Size|221.2KB|328.9KB|
-|RAW Size|65.4MB|89.3MB|
-|Capture Time|17:46 Jul. 8th, 2025|22:03 Jul. 14th, 2025|
-|ISO|80|800|
-|Explosure Time|1/1965 s|1/25 s|
 
-**General Settings**
-
-|Device Model|Apple iPhone 14 Pro Max|
-|Format|RAW (.dng)|
-|Camera|Main Camera|
-|Focal Length|24mm|
-|Aperture (f)|1.78|
-|Resolution|8064x6048|
-|Exposure Value|0|
