@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,21 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+[Download .pdf CV.](/files/cv20250801.pdf)
+
 Education
 ======
 * Northwestern Polytechnical University (NWPU, Xi'an, China)
   * **Time**:&emsp; Aug. 2022 - Jul. 2026 (Expected)
   * **Major**:&emsp; Bachelor of Engineering in Computer Science and Technology
   * **Minor**:&emsp; Smart Energy
-  * **GPA**:&emsp; 3.739 / 4.1 (**ALL MATH, CS & AI COURSES** are scored 90+)
+  * **GPA**:&emsp; 3.739 / 4.1 (**ALL MATH, CS & AI COURSES** are scored 90+. [Full Transcript](/files/trascript20250801.pdf))
 
 Research Experience
 ======
-* Jun. 2025: Remote Sensing Super Resolution with Text Guidance
+* Jul. 2025: [Text-Conditioned Remote Sensing Super-Resolution with Cross-Modal Learning](/publication/2025-08-01-textrssr)
   * Summer intern in CUHK(SZ). In progess.
   * **Supervisor**:&emsp; [Asso. Prof. Man-On Pun](https://scholar.google.com/citations?user=h82gvswAAAAJ) (Special thanks to [Dr. Xianping Ma](https://scholar.google.com/citations?user=YpIBfOkAAAAJ)!)
 
-* Aug. 2024: MdaCD
+* Aug. 2024: [Multimodal Difference Augmentation Learning for Remote Sensing Change Detection](/publication/2025-02-28-mdacd)
   * Wrote a paper named **Multimodal Difference Augmentation Learning for Remote Sensing Change Detection**, which is submitted to TGRS and under review.
   * Employed a CLIP-Guided Masking process to conceal regions that are highly unlikely to change and subsequently generated text prompts.
   * Developed a Multimodal Fusion and Difference Augmentation process to enhance the discrepancy between visual and textual information, facilitating differential feature learning and improving the accuracy of change detection.
@@ -45,7 +47,7 @@ Selected Awards and Technical Skills
 * **Programming**:&emsp; C++, Python, MATLAB, LaTeX, Markdown
 * **Qualifications**:&emsp; Driver License; Certified Software Professional (CSP), scored 345/500 (2% among all participants)
 
-Summer Schools
+Summer Schools & Interns
 ======
 * The Chinese University of Hong Kong, Shenzhen (Guangdong, Mainland China)
   * **Time**:&emsp; Jul. 2025 - Aug. 2025

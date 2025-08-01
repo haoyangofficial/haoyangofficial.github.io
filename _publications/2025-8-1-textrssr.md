@@ -7,10 +7,14 @@ excerpt: 'Leveraging textual and semantic guidance to enhance feature aligning i
 date: 2025-04-13
 venue: 'IEEE T-GRS'
 slidesurl: 'Unfinished'
-paperurl: 'textrssr20250801'
+paperurl: 'textrssr20250801.pdf'
 citation: 'Unfinished'
 ---
 
 **THIS WORK IS CURRENTLY UNFINISHED**.
 
 **Abstract**:&emsp; This study introduces a Text-Conditioned Remote Sensing Super-Resolution Network (Text-RSSR), which leverages textual and semantic guidance to enhance feature aligning in remote sensing super-resolution tasks. The source code for this work will be accessible at https://github.com/haoyangofficial/textrssr.
+
+![1](/images/publications/textrssr/archi.jpg)
+
+![2](/images/publications/textrssr/tgfa.jpg)
