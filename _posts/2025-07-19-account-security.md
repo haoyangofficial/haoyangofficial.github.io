@@ -13,7 +13,7 @@ However, if your concern is with institutional access—for example, if you're t
 
 You can also combine multiple security technologies for enhanced protection. In my case, I prioritize the following methods (in order of preference): hardware security keys, passkeys, authenticator app codes, and email verification codes. I avoid using passwords whenever possible. I also refrain from using SMS verification, except when it's the only available method to access an account.
 
-Hardware security keys offer an extremely high level of protection, as they are nearly impossible to clone or hack remotely. **However, if you're using security keys as your 2FA method, you must disable all other forms of 2FA** to ensure that weaker alternatives don’t become a vulnerability. Always keep at least two keys—one primary and one backup—but never carry them together. The drawbacks are their limited platform support and relatively high cost.
+**Hardware security keys** offer an extremely high level of protection, as they are nearly impossible to clone or hack remotely. **However, if you're using security keys as your 2FA method, you must disable all other forms of 2FA** to ensure that weaker alternatives don’t become a vulnerability. Always keep at least two keys—one primary and one backup—but never carry them together. The drawbacks are their limited platform support and relatively high cost.
 
 **Passkeys** function like virtual security keys linked to a trusted ecosystem (e.g., Apple or Google). They are free and user-friendly, but their security depends on the safety of the devices that store them. If any device with a stored passkey is compromised, so are the credentials. Passkey support is also still limited across platforms.
 
