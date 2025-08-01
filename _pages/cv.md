@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download .pdf CV.](/files/cv20250801.pdf)
+[Download CV in PDF format.](/files/cv20250801.pdf)
 
 Education
 ======
@@ -17,7 +17,7 @@ Education
   * **Time**:&emsp; Aug. 2022 - Jul. 2026 (Expected)
   * **Major**:&emsp; Bachelor of Engineering in Computer Science and Technology
   * **Minor**:&emsp; Smart Energy
-  * **GPA**:&emsp; 3.739 / 4.1 (**ALL MATH, CS & AI COURSES** are scored 90+. [Full Transcript](/files/trascript20250801.pdf))
+  * **GPA**:&emsp; 3.739 / 4.1 (**ALL MATH, CS & AI COURSES** are scored 90+. [Full Transcript](/files/transcript20250801.pdf))
 
 Research Experience
 ======
