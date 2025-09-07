@@ -6,9 +6,6 @@ permalink: /publication/2025-08-01-textrssr
 excerpt: 'Leveraging textual and semantic guidance to enhance feature aligning in remote sensing super-resolution tasks.'
 date: 2025-04-13
 venue: 'IEEE T-GRS'
-slidesurl: 'Unfinished'
-paperurl: 'publications/textrssr20250907.pdf'
-citation: 'Unfinished'
 ---
 
 **THIS WORK IS CURRENTLY UNFINISHED**.
