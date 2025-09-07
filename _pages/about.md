@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a third-year student with the Honors College in Northwestern Polytechnical University. I am currently participating in a summer internship at the Chinese University of Hong Kong, Shenzhen (CUHKSZ).
+Hello! I'm a fourth-year student with the Honors College in Northwestern Polytechnical University.
 
-I was born and raised in Zhongshan, Guangdong. My hobbies are music, coffee, coding and snooker.
+I was born and raised in Zhongshan, Guangdong. My hobbies are music, coffee, rhythm game and snooker.
 
-This website is maintained on an occasional basis. Last update: Aug. 1st, 2025.
+This website is maintained on an occasional basis. Last update: Sep. 7th, 2025.
