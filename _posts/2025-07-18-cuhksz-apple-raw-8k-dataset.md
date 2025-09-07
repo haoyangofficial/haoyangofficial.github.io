@@ -5,8 +5,6 @@ collection: posts
 permalink: /posts/2025-07-18-cuhksz-apple-raw-8k-dataset/
 ---
 
-## Introduction
-
 During my visit to CUHKSZ, I plan to photograph the campus using an iPhone 14 Pro Max. The goal is to create an ultra-large Apple RAW dataset, featuring images captured both during the day and at night. The dataset is available at [Hugging Face](https://huggingface.co/datasets/YarnYang/YH_CUHKSZ_Apple_RAW_8K_Dataset).
 
 ## License Statement

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV in PDF format.](/files/cv20250801.pdf)
+[Download CV in PDF format.](/files/cv20250907.pdf)
 
 Education
 ======
@@ -22,11 +22,12 @@ Education
 Research Experience
 ======
 * Jul. 2025: [Text-Conditioned Remote Sensing Super-Resolution with Cross-Modal Learning](/publication/2025-08-01-textrssr)
-  * Summer intern in CUHK(SZ). In progess.
+  * Introduced a Text-RSSR model which achieved state-of-the-art performance with PSNR metrics of 16.363 2 dB on Alsat-2B dataset, 27.490 4 dB on UC Merced Land Use Dataset, and 27.408 9 dB on AID.
+  * Developed a dual-head network that extracts fine-grained local visual features from images while simultaneously preserving the global textual and semantic representations captured by CLIP.
+  * Introduced an iterative super-resolution framework that progressively enhances low-resolution images by incorporating both textual cues and semantic information, enabling finer detail recovery and improved alignment with textual descriptions.
   * **Supervisor**:&emsp; [Asso. Prof. Man-On Pun](https://scholar.google.com/citations?user=h82gvswAAAAJ) (Special thanks to [Dr. Xianping Ma](https://scholar.google.com/citations?user=YpIBfOkAAAAJ)!)
 
 * Aug. 2024: [Multimodal Difference Augmentation Learning for Remote Sensing Change Detection](/publication/2025-02-28-mdacd)
-  * Wrote a paper named **Multimodal Difference Augmentation Learning for Remote Sensing Change Detection**, which is submitted to TGRS and under review.
   * Employed a CLIP-Guided Masking process to conceal regions that are highly unlikely to change and subsequently generated text prompts.
   * Developed a Multimodal Fusion and Difference Augmentation process to enhance the discrepancy between visual and textual information, facilitating differential feature learning and improving the accuracy of change detection.
   * **Supervisor**:&emsp; [Asso. Prof. Zhiyu JIANG](https://iopen.nwpu.edu.cn/info/1251/1077.htm)

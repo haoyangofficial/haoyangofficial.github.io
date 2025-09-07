@@ -8,7 +8,7 @@ date: 2025-04-13
 venue: 'IEEE T-GRS'
 ---
 
-[**Get PDF**](publications/textrssr20250907.pdf)
+[**Get PDF**](textrssr20250907.pdf)
 
 **THIS WORK IS UNFINISHED**.
 
