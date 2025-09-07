@@ -5,22 +5,19 @@ collection: posts
 permalink: /posts/2025-07-18-cuhksz-apple-raw-8k-dataset/
 ---
 
-**THIS WORK IS IN PROGRESS.**
-
 ## Introduction
 
-During my visit to CUHKSZ, I plan to photograph the campus using an iPhone 14 Pro Max. The goal is to create an ultra-large Apple RAW dataset accompanied by manually written text captions, featuring images captured both during the day and at night.
+During my visit to CUHKSZ, I plan to photograph the campus using an iPhone 14 Pro Max. The goal is to create an ultra-large Apple RAW dataset, featuring images captured both during the day and at night. The dataset is available at [Hugging Face](https://huggingface.co/datasets/YarnYang/YH_CUHKSZ_Apple_RAW_8K_Dataset).
 
-The dataset will consist of photos taken with the iPhone 14 Pro Max’s main camera at 1x zoom, saved in Apple RAW format at a resolution of 8064×6048 (8K), and will include scenes from both daytime and nighttime conditions.
+## License Statement
 
-## Preview
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. In addition to the terms of the CC BY-NC-SA 4.0 license, the following restrictions apply:
 
-|.jpg Preview (x8 Downscaled)|![1](/images/datasets/cuhksz-apple-raw-8k-dataset/1.jpg)|![2](/images/datasets/cuhksz-apple-raw-8k-dataset/2.jpg)|
-|.jpg Size|221.2KB|328.9KB|
-|RAW Size|65.4MB|89.3MB|
-|Capture Time|17:46 Jul. 8th, 2025|22:03 Jul. 14th, 2025|
-|ISO|80|800|
-|Explosure Time|1/1965 s|1/25 s|
+1. Non-Commercial Use Only. The Work may be used, shared, and adapted solely for non-commercial purposes.
+
+2. No Military, Defense, or Law Enforcement Use. The Work may not be used for military, defense, or law enforcement applications, including but not limited to weapons development, combat systems, or policing technologies.
+
+3. No Surveillance Use. The Work may not be used for surveillance purposes, including but not limited to monitoring, tracking, facial recognition, or intelligence gathering.
 
 ## General Settings
 

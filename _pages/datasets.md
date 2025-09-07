@@ -17,7 +17,7 @@ If you are interested in contributing your own data, please feel free to contact
 
 ## [YH CUHKSZ Apple RAW 8K Dataset](/posts/2025-07-18-cuhksz-apple-raw-8k-dataset/)
 
-The goal of this project is to create an ultra-large Apple RAW dataset accompanied by manually written text captions, featuring images captured both during the day and at night. **THIS WORK IS IN PROGRESS.** See more details [here](https://haoyangofficial.github.io/posts/2025-07-18-cuhksz-apple-raw-8k-dataset/).
+This work introduces an ultra-large Apple RAW dataset accompanied by their JPEG versions, featuring 64 images captured both during the day and at night. The dataset consists of photos taken with the iPhone 14 Pro Max’s main camera at 1x zoom, saved in Apple RAW format at a resolution of 8064×6048 (8K). See more details [here](https://haoyangofficial.github.io/posts/2025-07-18-cuhksz-apple-raw-8k-dataset/).
 
 ## [YH Daily Sound Dataset](/posts/2025-07-19-daily-sound-dataset/)
 
