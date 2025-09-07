@@ -7,7 +7,7 @@ excerpt: 'Leveraging textual and semantic guidance to enhance feature aligning i
 date: 2025-04-13
 venue: 'IEEE T-GRS'
 slidesurl: 'Unfinished'
-paperurl: 'textrssr20250801.pdf'
+paperurl: 'textrssr20250907.pdf'
 citation: 'Unfinished'
 ---
 
