@@ -11,4 +11,4 @@ Hello! I'm a fourth-year student with the Honors College in Northwestern Polytec
 
 I was born and raised in Zhongshan, Guangdong. My hobbies are music, coffee, rhythm game and snooker.
 
-This website is maintained on an occasional basis. Last update: Sep. 7th, 2025.
+This website is maintained on an occasional basis. Last update: Sep. 11th, 2025.
