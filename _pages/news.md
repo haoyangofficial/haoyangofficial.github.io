@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+**Sep. 11th, 2025**: Deleted ALL the videos I've uploaded to bilibili and won't upload any more. _I fight for the creators' right!_
 
 **Jul. 4th, 2025**: Started my summer internship in the Chinese University of Hong Kong, Shenzhen (CUHKSZ)!
 
