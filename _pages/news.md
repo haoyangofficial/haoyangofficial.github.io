@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**Nov. 6th, 2025**: My first work, _Multimodal Difference Augmentation Learning for Remote Sensing Change Detection_, is accepted by IEEE T-GRS!
+
 **Sep. 11th, 2025**: Deleted ALL the videos I've uploaded to bilibili and won't upload any more. _I fight for the creators' right!_
 
 **Jul. 4th, 2025**: Started my summer internship in the Chinese University of Hong Kong, Shenzhen (CUHKSZ)!
