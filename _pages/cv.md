@@ -27,7 +27,7 @@ Research Experience
   * Introduced an iterative super-resolution framework that progressively enhances low-resolution images by incorporating both textual cues and semantic information, enabling finer detail recovery and improved alignment with textual descriptions.
   * **Supervisor**:&emsp; [Asso. Prof. Man-On Pun](https://scholar.google.com/citations?user=h82gvswAAAAJ) (Special thanks to [Dr. Xianping Ma](https://scholar.google.com/citations?user=YpIBfOkAAAAJ)!)
 
-* Aug. 2024: [Multimodal Difference Augmentation Learning for Remote Sensing Change Detection](/publication/2025-02-28-mdacd)
+* Aug. 2024: [Multimodal Difference Augmentation Learning for Remote Sensing Change Detection](/publication/2025-02-28-mdacd) (Accepted by IEEE T-GRS)
   * Employed a CLIP-Guided Masking process to conceal regions that are highly unlikely to change and subsequently generated text prompts.
   * Developed a Multimodal Fusion and Difference Augmentation process to enhance the discrepancy between visual and textual information, facilitating differential feature learning and improving the accuracy of change detection.
   * **Supervisor**:&emsp; [Asso. Prof. Zhiyu JIANG](https://iopen.nwpu.edu.cn/info/1251/1077.htm)
