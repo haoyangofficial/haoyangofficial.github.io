@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV in PDF format.](/files/cv20250907.pdf)
+[Download CV in PDF format.](/files/cv20251217.pdf)
 
 Education
 ======
@@ -21,8 +21,12 @@ Education
 
 Research Experience
 ======
+* Nov. 2025: [Text-Guided Remote Sensing Super-Resolution Network with Multi-Stage Tail Refinement](/publication/2025-11-01-tgrst)
+  * Coupled a tailless multimodal remote sensing super-resolution backbone with a lightweight, multi-stage Tail refinement strategy.
+  * Introduced a residual-pretraining-and-fine-tuning paradigm to train the tail model to enhance the remote sensing super-resolution task.
+  * **Supervisor**:&emsp; [Asso. Prof. Man-On Pun](https://scholar.google.com/citations?user=h82gvswAAAAJ)
+
 * Jul. 2025: [Text-Conditioned Remote Sensing Super-Resolution with Cross-Modal Learning](/publication/2025-08-01-textrssr)
-  * Introduced a Text-RSSR model which achieved state-of-the-art performance with PSNR metrics of 16.363 2 dB on Alsat-2B dataset, 27.490 4 dB on UC Merced Land Use Dataset, and 27.408 9 dB on AID.
   * Developed a dual-head network that extracts fine-grained local visual features from images while simultaneously preserving the global textual and semantic representations captured by CLIP.
   * Introduced an iterative super-resolution framework that progressively enhances low-resolution images by incorporating both textual cues and semantic information, enabling finer detail recovery and improved alignment with textual descriptions.
   * **Supervisor**:&emsp; [Asso. Prof. Man-On Pun](https://scholar.google.com/citations?user=h82gvswAAAAJ) (Special thanks to [Dr. Xianping Ma](https://scholar.google.com/citations?user=YpIBfOkAAAAJ)!)
