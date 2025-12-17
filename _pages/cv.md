@@ -26,9 +26,9 @@ Research Experience
   * Introduced a residual-pretraining-and-fine-tuning paradigm to train the tail model to enhance the remote sensing super-resolution task.
   * **Supervisor**:&emsp; [Asso. Prof. Man-On Pun](https://scholar.google.com/citations?user=h82gvswAAAAJ)
 
-* Jul. 2025: [Text-Conditioned Remote Sensing Super-Resolution with Cross-Modal Learning](/publication/2025-08-01-textrssr)
-  * Developed a dual-head network that extracts fine-grained local visual features from images while simultaneously preserving the global textual and semantic representations captured by CLIP.
-  * Introduced an iterative super-resolution framework that progressively enhances low-resolution images by incorporating both textual cues and semantic information, enabling finer detail recovery and improved alignment with textual descriptions.
+* Jul. 2025: [Text-Conditioned Semantic Efficient Remote Sensing Image Transfer System](/publication/2025-08-01-textrssr)
+  * Proposed a semantic-efficient RS image transfer framework, enabling low-bandwidth and information-preserving transmission via LR–text pairs.
+  *	Developed a dual-head network that extracts fine-grained local visual features from images while simultaneously preserving the global textual and semantic representations captured by CLIP.
   * **Supervisor**:&emsp; [Asso. Prof. Man-On Pun](https://scholar.google.com/citations?user=h82gvswAAAAJ) (Special thanks to [Dr. Xianping Ma](https://scholar.google.com/citations?user=YpIBfOkAAAAJ)!)
 
 * Aug. 2024: [Multimodal Difference Augmentation Learning for Remote Sensing Change Detection](/publication/2025-02-28-mdacd) (Accepted by IEEE T-GRS)
