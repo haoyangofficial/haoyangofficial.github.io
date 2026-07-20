@@ -11,4 +11,6 @@ Hello! I'm a first-year PhD student with the Chinese University of Hong Kong, Sh
 
 I was born and raised in Zhongshan, Guangdong. My hobbies are music, coffee, rhythm game and snooker.
 
+I will maintain all my published works for a year.
+
 This website is maintained on an occasional basis. Last update: Jul. 20th, 2026.
