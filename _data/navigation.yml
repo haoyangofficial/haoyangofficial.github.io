@@ -8,14 +8,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "News"
-    url: /news/
-
   - title: "Publications & Works"
     url: /publications/
-
-  - title: "Blog Posts"
-    url: /blog-posts/
-    
-  - title: "Datasets"
-    url: /datasets/
